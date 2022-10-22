@@ -1,0 +1,66 @@
+{
+  "hero": {
+    "name": {
+      "firstName": "SARA",
+      "lastName": "FISHBURN"
+    },
+    "secondaryText": "Front end web developer",
+    "github": "https://github.com/SaraFishburnDev",
+    "linkedin": "https://www.linkedin.com/in/sarafishburn/",
+    "twitter": "https://twitter.com/SaraFishburnDev",
+    "resume": "https://drive.google.com/file/d/1lcpAGOXb-KZE4kuz6j0JOFV4CXQusGiE/view"
+  },
+  "intro": {
+    "heading": "Hi! I'm Sara :)",
+    "text": "I'm a <a href='#'>Coder Academy</a> graduate from Brisbane, Australia. I have a <b>Diploma of Information Technology</b> and I've fallen in love with front end development."
+  },
+  "componentsBlock": {
+    "heading": "I <em>LOVE<em> MAKING INTERACTIVE COMPONENTS",
+    "likeButton": "HOW MANY PEOPLE LIKE MY WEBSITE?",
+    "hamburgerAnimations": "HAMBURGER ANIMATIONS",
+    "themeToggle": "LIGHT OR DARK? <br> you decide..."
+  },
+  "spareTimeBlock": {
+    "heading": "In my spare time I:",
+    "text": "<ul><li>Practice Martial Arts</li><li>Create 3D prints</li><li>Play Dungeons & Dragons</li><li>Hike, Camp, & Travel</li></ul>",
+    "images": [
+      "","","",""
+    ]
+  },
+  "projectsBlock": {
+    "heading": "PROJECTS",
+    "slides": [
+      {
+        "image": "",
+        "heading": "Previous Portfolio",
+        "text": "The first project made for <b>Coder Academy</b>",
+        "tech": {
+          "github": "",
+          "URL": ""
+        }
+      },
+      {
+        "image": "",
+        "heading": "Slide 2",
+        "text": "The first project made for <b>Coder Academy</b>",
+        "tech": {
+          "github": "",
+          "URL": ""
+        }
+      },
+      {
+        "image": "",
+        "heading": "Slide 3",
+        "text": "The first project made for <b>Coder Academy</b>",
+        "tech": {
+          "github": "",
+          "URL": ""
+        }
+      }
+      
+    ]
+  },
+  "contactBlock": {
+    "heading": "CONTACT ME"
+  }
+}
