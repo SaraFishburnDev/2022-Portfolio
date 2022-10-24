@@ -27,6 +27,14 @@ module.exports = {
           DEFAULT: colors.cyan[600],
           dark: colors.cyan[500],
         }
+      },
+      keyframes: {
+        twinkle: {
+          '0%': { opacity: 1},
+          '10%': { opacity: 0},
+          '20%': { opacity: 1},
+          '100%': { opacity: 1}
+        }
       }
     },
   },

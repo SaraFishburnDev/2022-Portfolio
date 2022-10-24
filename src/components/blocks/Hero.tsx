@@ -1,5 +1,5 @@
-import { Icon } from '@iconify/react';
-import Button from '../atomic/Button';
+import { Icon } from '@iconify/react'
+import Button from '../atomic/Button'
 
 export type HeroProps = {
   name: {
